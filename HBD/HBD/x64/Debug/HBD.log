@@ -1,0 +1,4 @@
+﻿  code.cpp
+C:\Users\ryu\Desktop\keyboard\CoolerMasterHappyBirthday-master\code.cpp(317,9): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ryu\Desktop\keyboard\CoolerMasterHappyBirthday-master\code.cpp(373,9): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  HBD.vcxproj -> C:\Users\ryu\source\repos\HBD\x64\Debug\HBD.exe
